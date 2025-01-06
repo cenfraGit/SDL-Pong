@@ -5,7 +5,7 @@ Pong game written in C using SDL.
 - 'w' or 'p' to move left paddle up
 - 's' or 'n' to move left paddle down
 
-  #+BEGIN_HTML
+#+BEGIN_HTML
 <p align="center">
 <img src="screenshot.png" width="600"/>
 </p>
